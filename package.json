@@ -1,0 +1,27 @@
+{
+  "name": "react-native-interaction-keyboard",
+  "version": "1.0.0",
+  "description": "Fix bug react native keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-interaction-keyboard",
+    "react-native-keyboard"
+  ],
+  "repository": "git@github.com:bacnv1/react-native-interaction-keyboard.git",
+  "author": "bacnv <nguyenvanbac33@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^16.12.0",
+    "react-native": "^0.61.5",
+    "prop-types": "^15.7.2"
+  },
+  "babel": {
+    "presets": [
+      "react-native"
+    ]
+  }
+}
